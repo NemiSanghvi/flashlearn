@@ -5,7 +5,7 @@ import '../index.css'; // Ensure Tailwind CSS is imported here
 
 const LandingPage = () => {
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-t from-gray-300 to-slate-800">
+    <div className="flex flex-col items-center justify-center  h-screen bg-gradient-to-t from-gray-300 to-slate-800">
       <h1 className="text-6xl font-bold text-white animate-bounce font-press-start">
         Flash Learn
       </h1>

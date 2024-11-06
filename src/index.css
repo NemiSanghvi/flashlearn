@@ -21,14 +21,14 @@
     transform: translateX(0);
   }
   100% {
-    transform: translateX(100vw); /* Move off screen to the right */
+    transform: translateX(100vw);
   }
 }
 
 .animate-move-left {
-  animation: move-left 1s forwards;
+  animation: move-left 1200ms forwards;
 }
 
 .animate-move-right {
-  animation: move-right 1s forwards;
+  animation: move-right 1200ms forwards;
 }
